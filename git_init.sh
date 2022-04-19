@@ -4,7 +4,7 @@ git init
 git add *
 git commit -m "init"
 
-git remote add origin git@github.com:Jie-Yuan/data_governance.git
+git remote add origin git@github.com:Jie-Yuan/data-governance.git
 git branch -M master
 git push -u origin master
 # git remote remove origin
