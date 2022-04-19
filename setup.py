@@ -41,12 +41,11 @@ setup(
     long_description_content_type="text/markdown",
     include_package_data=True,
     keywords='data_governance',
-    name='data_governance',
+    name='data-governance',
     packages=find_packages(include=['data_governance', 'data_governance.*']),
 
     test_suite='tests',
-    url='https://github.com/Jie-Yuan/data_governance',
-    version=version, # '0.0.0',
+    url='https://github.com/Jie-Yuan/data-governance',
+    version=version,  # '0.0.0',
     zip_safe=False,
 )
-

@@ -9,7 +9,7 @@
 ---
 # Install
 ```python
-pip install -U data_governance
+pip install -U data-governance
 ```
 
 # [Docs](https://jie-yuan.github.io/data-governance/)
