@@ -15,7 +15,6 @@ pip install -U data_governance
 # [Docs](https://jie-yuan.github.io/data-governance/)
 
 
-
 # Usages
 ```
 import data_governance
