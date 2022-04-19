@@ -12,7 +12,7 @@
 pip install -U data_governance
 ```
 
-# [Docs](https://jie-yuan.github.io/data_governance/)
+# [Docs](https://jie-yuan.github.io/data-governance/)
 
 
 
